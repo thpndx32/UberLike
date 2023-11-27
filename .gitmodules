@@ -1,0 +1,6 @@
+[submodule "recibe_data"]
+	path = recibe_data
+	url = https://github.com/thpndx32/recibe_data
+[submodule "envia_data"]
+	path = envia_data
+	url = https://github.com/thpndx32/envia-data
